@@ -1,0 +1,24 @@
+{
+  "name": "eleventy_bootstrap",
+  "version": "0.0.1",
+  "description": "Eleventy Shortcodes for Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halvorsonhomes/eleventy_bootstrap.git"
+  },
+  "keywords": [
+    "eleventy",
+    "shortcode",
+    "bootstrap"
+  ],
+  "author": "Sean Halvorson",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/halvorsonhomes/eleventy_bootstrap/issues"
+  },
+  "homepage": "https://github.com/halvorsonhomes/eleventy_bootstrap#readme"
+}
