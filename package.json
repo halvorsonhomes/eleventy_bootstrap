@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/halvorsonhomes/eleventy_bootstrap/issues"
   },
-  "homepage": "https://github.com/halvorsonhomes/eleventy_bootstrap#readme"
+  "homepage": "https://github.com/halvorsonhomes/eleventy_bootstrap#readme",
+  "dependencies": {
+    "eleventy": "^0.2.0"
+  }
 }
